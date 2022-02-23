@@ -1,2 +1,1 @@
-# kateblazhko-JSFEPRESCHOOL
-Private repository for @kateblazhko
+https://kateblazhko.github.io/project-image-gallery/image-gallery/
